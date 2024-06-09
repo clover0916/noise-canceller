@@ -1,0 +1,6 @@
+{
+  "board": "arduino:avr:uno",
+  "sketch": "noise-canceller.ino",
+  "port": "COM5",
+  "output": "build"
+}
